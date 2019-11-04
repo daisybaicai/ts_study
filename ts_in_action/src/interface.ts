@@ -69,7 +69,7 @@ interface Names {
 }
 
 // 接口还能定义函数
-let add2: (x: number, y: number) => number
+// let add22: (x: number, y: number) => number
 
 interface Add3 {
   (x: number, y: number): number
