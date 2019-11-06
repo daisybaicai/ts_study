@@ -9,7 +9,8 @@
 // import './enum'
 // import './interface'
 // import './function'
-import './class'
+// import './class'
+import './generics'
 
 let hello: string = 'hello ts'
 document.querySelectorAll('.app')[0].innerHTML = hello;
