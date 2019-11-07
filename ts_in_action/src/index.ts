@@ -10,7 +10,8 @@
 // import './interface'
 // import './function'
 // import './class'
-import './generics'
+// import './generics';
+import './advanced.ts'
 
 let hello: string = 'hello ts'
 document.querySelectorAll('.app')[0].innerHTML = hello;
